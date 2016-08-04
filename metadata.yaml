@@ -1,0 +1,33 @@
+_repo: The-Round-Up--A-Romance-of-Arizona--Novelized-from-Edmund-Day-s-Melodrama_763
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Miller, Marion Mills
+    birthdate: 1864
+    deathdate: 1949
+    gutenberg_agent_id: '400'
+    url: http://www.gutenberg.org/2009/agents/400
+  - agent_name: Murray, John
+    gutenberg_agent_id: '6408'
+    url: http://www.gutenberg.org/2009/agents/6408
+  - agent_name: Day, Edmund
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '401'
+    url: http://www.gutenberg.org/2009/agents/401
+description: ''
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Arizona -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Round-Up: A Romance of Arizona; Novelized from Edmund Day''s Melodrama'
+url: http://www.gutenberg.org/ebooks/763
